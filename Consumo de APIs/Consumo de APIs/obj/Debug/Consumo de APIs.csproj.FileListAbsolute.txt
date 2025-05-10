@@ -1,0 +1,14 @@
+C:\Users\Dilen\Desktop\Consumo de APIs\Consumo de APIs\bin\Debug\Consumo de APIs.exe.config
+C:\Users\Dilen\Desktop\Consumo de APIs\Consumo de APIs\bin\Debug\Consumo de APIs.exe
+C:\Users\Dilen\Desktop\Consumo de APIs\Consumo de APIs\bin\Debug\Consumo de APIs.pdb
+C:\Users\Dilen\Desktop\Consumo de APIs\Consumo de APIs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dilen\Desktop\Consumo de APIs\Consumo de APIs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dilen\Desktop\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo de APIs.csproj.AssemblyReference.cache
+C:\Users\Dilen\Desktop\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo_de_APIs.Form1.resources
+C:\Users\Dilen\Desktop\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo_de_APIs.Properties.Resources.resources
+C:\Users\Dilen\Desktop\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo de APIs.csproj.GenerateResource.cache
+C:\Users\Dilen\Desktop\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo de APIs.csproj.CoreCompileInputs.cache
+C:\Users\Dilen\Desktop\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo .CB383654.Up2Date
+C:\Users\Dilen\Desktop\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo de APIs.exe
+C:\Users\Dilen\Desktop\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo de APIs.pdb
+C:\Users\Dilen\Desktop\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo_de_APIs.Gatitos.resources
